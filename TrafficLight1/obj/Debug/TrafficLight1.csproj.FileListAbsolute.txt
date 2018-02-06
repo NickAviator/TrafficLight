@@ -1,0 +1,10 @@
+C:\Users\Nikita\source\repos\TrafficLight1\TrafficLight1\bin\Debug\TrafficLight1.exe.config
+C:\Users\Nikita\source\repos\TrafficLight1\TrafficLight1\bin\Debug\TrafficLight1.exe
+C:\Users\Nikita\source\repos\TrafficLight1\TrafficLight1\bin\Debug\TrafficLight1.pdb
+C:\Users\Nikita\source\repos\TrafficLight1\TrafficLight1\obj\Debug\TrafficLight1.csprojResolveAssemblyReference.cache
+C:\Users\Nikita\source\repos\TrafficLight1\TrafficLight1\obj\Debug\TrafficLight1.Form1.resources
+C:\Users\Nikita\source\repos\TrafficLight1\TrafficLight1\obj\Debug\TrafficLight1.Properties.Resources.resources
+C:\Users\Nikita\source\repos\TrafficLight1\TrafficLight1\obj\Debug\TrafficLight1.csproj.GenerateResource.Cache
+C:\Users\Nikita\source\repos\TrafficLight1\TrafficLight1\obj\Debug\TrafficLight1.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\TrafficLight1\TrafficLight1\obj\Debug\TrafficLight1.exe
+C:\Users\Nikita\source\repos\TrafficLight1\TrafficLight1\obj\Debug\TrafficLight1.pdb
